@@ -12,9 +12,8 @@
 }
 
 div {
-    animation-name: grow;
-    animation-duration: 60s;
-    animation-fill-mode: forwards;
+    font-size: 24px; 
+    color:purple;
     margin-left: 5px;
     
 }
@@ -29,7 +28,7 @@ div {
 }
 
 img {
-    height: 20%
+    height: 10%
 }
 
 iframe {
